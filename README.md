@@ -26,5 +26,4 @@ Grafana, Prometeus.
 Заранее благодарю за рассмотрение моей кандидатуры. С нетерпением жду ответа на
 письмо!
 
-
-![Фотография моего лица (из паспорта)](https://github.com/VladimirSemchishin/Documents_confirming_qualification-/blob/main/fotografia_semchishin%20(1).png "Фотография моего лица (из паспорта), но со временем оно могло измениться")
+<img src="https://github.com/VladimirSemchishin/Documents_confirming_qualification-/blob/main/fotografia_semchishin%20(1).png" width="500">
