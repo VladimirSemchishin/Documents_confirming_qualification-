@@ -26,4 +26,4 @@ Grafana, Prometeus.
 Заранее благодарю за рассмотрение моей кандидатуры. С нетерпением жду ответа на
 письмо!
 
-<img src="https://github.com/VladimirSemchishin/Documents_confirming_qualification-/blob/main/fotografia_semchishin%20(1).png" width="500">
+<img src="https://github.com/VladimirSemchishin/Documents_confirming_qualification-/blob/main/fotografia_semchishin%20(1).png" width="250">
