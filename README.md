@@ -27,4 +27,4 @@ Grafana, Prometeus.
 письмо!
 
 
-![alt-текст]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/VladimirSemchishin/Documents_confirming_qualification-/blob/main/fotografia_semchishin%20(1).png)https://github.com/VladimirSemchishin/Documents_confirming_qualification-/blob/main/fotografia_semchishin%20(1).png "Фотография моего лица (из паспорта), но со временем оно могло измениться")
+![Фотография моего лица (из паспорта)](https://github.com/VladimirSemchishin/Documents_confirming_qualification-/blob/main/fotografia_semchishin%20(1).png "Фотография моего лица (из паспорта), но со временем оно могло измениться")
