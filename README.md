@@ -7,7 +7,7 @@
 менеджмент в МГТУ им. Н.Э.Баумана.
 - Законченный курс профессиональной переподготовки по направлению
 DevOps-инженер от МГТУ им. Н.Э.Баумана совместно с Ростелекомом.
-- Законченный курс на [Cloud Solution Manager]([https://www.google.com](https://github.com/VladimirSemchishin/Documents_confirming_qualification-/blob/main/%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.pdf) "Ссылка на соответствующий сертификат") от ITGLOBAL.COM, Server Space и ИТ Крым
+- Законченный курс на [Cloud Solution Manager](https://github.com/VladimirSemchishin/Documents_confirming_qualification-/blob/main/%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8.pdf "Ссылка на соответствующий сертификат") от ITGLOBAL.COM, Server Space и ИТ Крым
 - Законченные курсы по Python и Kubernetes
 
 ### Практический опыт:
