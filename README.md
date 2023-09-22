@@ -22,7 +22,6 @@
 практика: Linux, Bash, Python, Git, GitHub, Docker, Terraform, Ansible, Kubernetes.
 
 
-Заранее благодарю за рассмотрение моей кандидатуры. С нетерпением жду ответа на
-письмо!
+Заранее благодарю за рассмотрение моей кандидатуры. С нетерпением жду вашего ответа!
 
 <img src="https://github.com/VladimirSemchishin/Documents_confirming_qualification-/blob/main/fotografia_semchishin%20(1).png" width="250">
